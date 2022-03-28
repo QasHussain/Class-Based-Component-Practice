@@ -6,9 +6,9 @@ A very basic project used to practice class based components in React.
 
 Class based component Lifecycle Methods:
 
-componentDidMount - useEffect equivalent suitible for API and Http requests as it only runs once on mount.
+componentDidMount - useEffect equivalent suitable for API and Http requests as it only runs once on mount.
 
-componentDidUpdate - useEffect equivalent suitible for cases where there is a changing dependancy.
+componentDidUpdate - useEffect equivalent suitable for cases where there is a changing dependancy.
 
 componentWillUnmount - useEffect cleanup function equivalent.
 
