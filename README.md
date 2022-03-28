@@ -1,7 +1,8 @@
-# Class-Based-Component-Practice
-A very basic project used to practice class based components in React
+## Class-Based-Component-Practice
 
-#Key learnings:
+A very basic project used to practice class based components in React.
+
+## Key learnings:
 
 Class based component Lifecycle Methods:
 
